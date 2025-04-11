@@ -4,20 +4,22 @@ var age = 31;
 var isStudent = true;
 
 console.log(`
-Variable Declaration:
-Name:${myName}
-Age: ${age}
-Student: ${isStudent}`);
+VARIABLES AND ARITHMENTICS
+
+ Variable Declaration:
+ Name:${myName}
+ Age: ${age}
+ Student: ${isStudent}`);
 
 // Variable Reassignment
 var favoriteColor = "blue";
 console.log(`
 Variable Reassignment:
-Favorite color: ${favoriteColor}
+ Favorite color: ${favoriteColor}
 `);
 
 favoriteColor = "black";
-console.log(`Favorite color: ${favoriteColor}`);
+console.log(` Favorite color: ${favoriteColor}`);
 
 // Arithmetic Operators
 var num1 = 10;
