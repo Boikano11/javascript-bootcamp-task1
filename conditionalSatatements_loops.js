@@ -97,7 +97,7 @@ while (count <= 10) {
   console.log(count);
   count++;
 }
-//Even numbers
+// Even numbers
 // let count2 = 1;
 // console.log("Even Numbers");
 // while (count2 <= 20) {
@@ -106,8 +106,8 @@ while (count <= 10) {
 //   }
 //   count2++;
 // }
+// Sum 1 to 100
 
-//Sum 1 to 100
 let count3 = 1;
 let sum1 = 0;
 console.log("Sum");
